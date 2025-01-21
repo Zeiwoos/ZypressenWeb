@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ZypressenWeb.iml" filepath="$PROJECT_DIR$/.idea/ZypressenWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zypressen_front.iml" filepath="$PROJECT_DIR$/zypressen_front.iml" />
+    </modules>
+  </component>
+</project>
